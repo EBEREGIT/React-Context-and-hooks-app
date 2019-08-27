@@ -7,7 +7,7 @@ const BookForm = () => {
   const [ author, setAuthor ] = useState("");
   const handleSubmit = (e) => {
       e.preventDefault();
-      if (title!=='', author!=='') {
+      if (title!=='' && author!=='') {
         dispatch({type: 'ADD_BOOK', book: {
           title, author
         }});
