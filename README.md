@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation 
+### on local machine
+* Clone this repository [here](https://github.com/EBEREGIT/React-Context-and-hooks-app "here")
+* Navigate into the folder
+* `npm start`
+
+### on the internet
+* Click [here](https://eberebooklisting.netlify.com/ "here") to open the page
+
 ## Available Scripts
 
 In the project directory, you can run:
